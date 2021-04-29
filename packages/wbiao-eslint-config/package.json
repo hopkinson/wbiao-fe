@@ -1,6 +1,6 @@
 {
   "name": "wbiao-eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "eslint config of wbiao",
   "license": "MIT",
   "main": "lib/wbiao-eslint-config.js",
