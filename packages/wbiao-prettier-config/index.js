@@ -1,7 +1,7 @@
 module.export = {
-  printWidth: 80,
   tabWidth: 2,
   singleQuote: true,
   semi: false,
-  eslintIntegration: true
-}
+  eslintIntegration: true,
+  trailingComma: "none",
+};
